@@ -9,7 +9,6 @@
 import Foundation
 import Alamofire
 import AlamofireImage
-import SwiftyJSON
 import ObjectMapper
 
 public typealias Coordinates = (latitude: Double, longitude: Double)

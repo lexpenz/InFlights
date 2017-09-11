@@ -6,12 +6,11 @@ target 'inFlight' do
   use_frameworks!
 
   # Pods for inFlight
-  pod 'SnapKit', '~> 3.2' #:git => 'https://github.com/SnapKit/SnapKit.git', :branch => 'swift-4'
+  pod 'SnapKit', '~> 3.2'
   pod 'Alamofire', '~> 4.5.0'
   pod 'AlamofireImage', '~> 3.3'
   pod 'RealmSwift'
   pod 'ObjectMapper'
-  pod 'SwiftyJSON'
   pod 'XCGLogger'
   pod 'PKHUD'
 
